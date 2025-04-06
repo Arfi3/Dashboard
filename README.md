@@ -7,5 +7,5 @@ Dashboard yang ada di sini menggunakan berbagai tools dan teknologi, serta menca
 ## Dashboard Data Supermarket
 ![Dashboard 1](gambar/Screenshot 2025-04-06 212058.png)
 
-<img src="gambar/Screenshot 2025-04-06 212058.png" alt="Dashboard 1" width="700"/>
+<img src="gambar/Screenshot 2025-04-06 212918.png" alt="Dashboard 1" width="900"/>
 
