@@ -13,3 +13,7 @@ Dashboard yang ada di sini menggunakan berbagai tools dan teknologi, serta menca
 ## Dashboard Data Penjualan di Organik Grocers
 Dashboard dapat dilihat [https://loker.studio](https://lookerstudio.google.com/reporting/5f0d0e51-03f5-422b-a5b8-5df7934e078c/page/lHFGF).
 <img src="gambar/Organik Grocers Dashboard Report-1.png" alt="Dashboard 1" width="900"/>
+
+## Dashboard Data Supermarket Sales
+
+<img src="gambar/Supermarket Sales Dashboard.png" alt="Dashboard 1" width="900"/>
