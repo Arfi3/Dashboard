@@ -17,3 +17,9 @@ Dashboard dapat dilihat [https://loker.studio](https://lookerstudio.google.com/r
 ## Dashboard Data Supermarket Sales
 
 <img src="gambar/Supermarket Sales Dashboard.png" alt="Dashboard 1" width="900"/>
+
+
+## Sales Dashboard Supermarket Shop
+
+<img src="gambar/Screenshot (1008).png" alt="Dashboard 1" width="900"/>
+
